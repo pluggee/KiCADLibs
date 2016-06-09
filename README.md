@@ -1,7 +1,10 @@
-# KiCADLibs
+KiCADLibs
+=========
+
 KiCAD heavy libraries for parts used by plugg.ee Labs  
   
-Directory structure is as follows:
+Directory Structure
+-------------------
 <pre>
 (d)pretty            : includes all layout footprints (flat, no hierarchy)  
 (d)sch               : includes all schematic libraries (every library in a separate file)  
