@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Main)(type KiCad)(uri /home/sherif/git/main.pretty)(options "")(descr "DEVELOPMENT NON-GIT footprint library"))
+)

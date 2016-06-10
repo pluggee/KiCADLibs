@@ -29,6 +29,7 @@ version=1
 version=1
 LibDir=$HOME/git/KiCADLibs/sch
 [eeschema/libraries]
-LibName1=device
-LibName2=analog
-LibName3=connect
+LibName1=power
+LibName2=device
+LibName3=analog
+LibName4=connect
