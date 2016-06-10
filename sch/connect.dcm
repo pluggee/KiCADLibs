@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCIESOCKET-X1
+D CONN PCI EXPRESS 36POS VERT PCB
+K PCI Express
+$ENDCMP
+#
+$CMP PCIEx1Edge
+D PCI Express x1 Board Edge
+K PCI Express
+$ENDCMP
+#
+#End Doc Library

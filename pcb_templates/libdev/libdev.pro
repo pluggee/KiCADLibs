@@ -1,4 +1,4 @@
-update=Mon 18 Apr 2016 08:33:40 AM PDT
+update=Fri 10 Jun 2016 03:14:38 PM PDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -32,3 +32,4 @@ LibDir=$HOME/git/KiCADLibs/sch
 LibName1=device
 LibName2=analog
 LibName3=RoboPlatform
+LibName4=connect
