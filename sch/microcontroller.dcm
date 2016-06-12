@@ -1,16 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP A4963
-D Sensorless BLDC Controller
-$ENDCMP
-#
-$CMP A4982SLPTR-T
+$CMP EFM8BB10F2G
 D DMOS Microstepping Driver with Translator And Overcurrent Protection
-K stepper driver motor
-$ENDCMP
-#
-$CMP DRV8825
-D Stepper Motor Controller IC
 K stepper driver motor
 $ENDCMP
 #

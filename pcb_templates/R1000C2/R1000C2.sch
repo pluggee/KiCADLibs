@@ -3,7 +3,6 @@ LIBS:power
 LIBS:device
 LIBS:analog
 LIBS:connect
-LIBS:R1000C2-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -181,4 +180,30 @@ Text Label 1800 1850 0    39   ~ 0
 SCL
 Text Label 1800 1650 0    39   ~ 0
 SDA
+Text GLabel 3450 2250 2    39   BiDi ~ 0
+ID0
+Wire Wire Line
+	3450 2250 3250 2250
+Text GLabel 3450 2150 2    39   BiDi ~ 0
+ID0
+Wire Wire Line
+	3450 2150 3250 2150
+Text GLabel 3450 2050 2    39   BiDi ~ 0
+ID0
+Wire Wire Line
+	3450 2050 3250 2050
+Text GLabel 3450 1950 2    39   BiDi ~ 0
+ID0
+Wire Wire Line
+	3450 1950 3250 1950
+Text GLabel 3450 1850 2    39   BiDi ~ 0
+ID0
+Wire Wire Line
+	3450 1850 3250 1850
+Text GLabel 3450 1750 2    39   BiDi ~ 0
+ID0
+Wire Wire Line
+	3450 1750 3250 1750
+NoConn ~ 3250 1650
+NoConn ~ 2150 1750
 $EndSCHEMATC
