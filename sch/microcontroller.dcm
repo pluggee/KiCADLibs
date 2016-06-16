@@ -1,7 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP EFM8BB10F2G
-D DMOS Microstepping Driver with Translator And Overcurrent Protection
+D IC MCU 8BIT 2KB FLASH 20QFN
 K stepper driver motor
 $ENDCMP
 #
