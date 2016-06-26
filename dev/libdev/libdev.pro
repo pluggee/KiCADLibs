@@ -1,4 +1,4 @@
-update=Thu 16 Jun 2016 11:17:14 PM PDT
+update=Mon 27 Jun 2016 00:56:40 BST
 version=1
 last_client=kicad
 [pcbnew]
@@ -63,3 +63,4 @@ LibName31=opto
 LibName32=atmel
 LibName33=contrib
 LibName34=valves
+LibName35=datastorage
