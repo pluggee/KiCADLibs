@@ -62,21 +62,13 @@ F 3 "" H 4400 2450 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 Text GLabel 2850 2250 0    39   BiDi ~ 0
-P1
+PX1
 Text GLabel 2850 2150 0    39   BiDi ~ 0
-P2
+PX2
 Text GLabel 2850 2050 0    39   BiDi ~ 0
-P3
+PX3
 Text GLabel 2850 1950 0    39   BiDi ~ 0
-P4
-Text Label 2950 2250 0    39   ~ 0
-P1
-Text Label 2950 2150 0    39   ~ 0
-P2
-Text Label 2950 2050 0    39   ~ 0
-P3
-Text Label 2950 1950 0    39   ~ 0
-P4
+PX4
 Text GLabel 1200 1850 0    39   Input ~ 0
 SCL
 Text GLabel 1200 1750 0    39   BiDi ~ 0
