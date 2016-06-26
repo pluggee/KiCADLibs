@@ -94,7 +94,7 @@ ID2
 Text GLabel 8100 1950 2    39   BiDi ~ 0
 ID3
 Text GLabel 8100 1850 2    39   BiDi ~ 0
-ID4
+RESERVED0
 Text GLabel 8100 1750 2    39   BiDi ~ 0
 SCLK
 $Comp
@@ -119,7 +119,7 @@ ID2
 Text Label 4275 1950 0    39   ~ 0
 ID3
 Text Label 4275 1850 0    39   ~ 0
-ID4
+RESERVED0
 Text Label 4275 1750 0    39   ~ 0
 SCLK
 Text Notes 8725 2025 2    39   ~ 0
@@ -147,17 +147,6 @@ F 1 "10k" H 4709 1226 50  0000 L CNN
 F 2 "Resistors_SMD:R_0603" H 4709 1159 20  0000 L CNN
 F 3 "" H 4650 1250 50  0000 C CNN
 	1    4650 1250
-	1    0    0    -1  
-$EndComp
-$Comp
-L R_Small R?
-U 1 1 576AD976
-P 5150 1250
-F 0 "R?" H 5209 1317 50  0000 L CNN
-F 1 "10k" H 5209 1226 50  0000 L CNN
-F 2 "Resistors_SMD:R_0603" H 5209 1159 20  0000 L CNN
-F 3 "" H 5150 1250 50  0000 C CNN
-	1    5150 1250
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -339,9 +328,6 @@ Wire Wire Line
 	4650 1350 4650 1650
 Connection ~ 4650 1650
 Wire Wire Line
-	5150 1350 5150 1850
-Connection ~ 5150 1850
-Wire Wire Line
 	5650 1350 5650 1950
 Connection ~ 5650 1950
 Wire Wire Line
@@ -374,9 +360,6 @@ Connection ~ 3450 1000
 Wire Wire Line
 	4650 1150 4650 1000
 Connection ~ 4650 1000
-Wire Wire Line
-	5150 1150 5150 1000
-Connection ~ 5150 1000
 Wire Wire Line
 	5650 1150 5650 1000
 Connection ~ 5650 1000

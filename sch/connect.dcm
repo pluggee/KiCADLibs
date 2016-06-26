@@ -22,4 +22,9 @@ $CMP SOCKMALE_02x03
 D Connector 01x04
 $ENDCMP
 #
+$CMP SPST_PUSHBTN
+D Button
+K switch
+$ENDCMP
+#
 #End Doc Library
