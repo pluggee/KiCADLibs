@@ -5,4 +5,12 @@ D Quad 2 to 1 line Multiplexer
 K TTL MUX MUX2
 $ENDCMP
 #
+$CMP MC14504B-SOIC
+D Hex Level Shifter for TTL to CMOS or CMOS to CMOS
+$ENDCMP
+#
+$CMP MC14504B-TSSOP
+D Hex Level Shifter for TTL to CMOS or CMOS to CMOS
+$ENDCMP
+#
 #End Doc Library

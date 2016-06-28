@@ -1,4 +1,4 @@
-update=Mon 27 Jun 2016 00:56:40 BST
+update=Tue 28 Jun 2016 12:32:29 PM PDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -64,3 +64,4 @@ LibName32=atmel
 LibName33=contrib
 LibName34=valves
 LibName35=datastorage
+LibName36=/media/psf/Dropbox/electricCar/PCB/LIB/EC_Components
