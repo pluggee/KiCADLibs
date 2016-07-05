@@ -5,4 +5,8 @@ D IC MCU 8BIT 2KB FLASH 20QFN
 K stepper driver motor
 $ENDCMP
 #
+$CMP LPC1769FBD100,551
+D 32-bit ARM Cortex-M3 microcontroller; up to 512 kB flash and 64 kB SRAM with Ethernet, USB 2.0 Host/Device/OTG, CAN
+$ENDCMP
+#
 #End Doc Library

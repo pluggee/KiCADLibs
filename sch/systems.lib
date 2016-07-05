@@ -1,0 +1,17 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# RPi_Mount
+#
+DEF RPi_Mount MP 0 40 Y Y 1 F N
+F0 "MP" -300 350 60 H V L CNN
+F1 "RPi_Mount" -300 250 60 H V L CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+S -300 200 300 -200 0 1 0 N
+X GND 1 500 0 200 L 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library
