@@ -14,6 +14,11 @@ D PCI Express x1 Board Edge
 K PCI Express
 $ENDCMP
 #
+$CMP SOCKET420P-02X04-CPU
+D CPU 8 Positions Header
+K power connector molex
+$ENDCMP
+#
 $CMP SOCKFEMALE_02x03
 D Connector 01x04
 $ENDCMP
