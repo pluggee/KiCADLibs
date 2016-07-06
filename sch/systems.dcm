@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP RPi_Mount
+D Raspberry Pi 2/3 Mount
+$ENDCMP
+#
 #End Doc Library
