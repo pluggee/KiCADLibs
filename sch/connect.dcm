@@ -19,6 +19,11 @@ D CPU 8 Positions Header
 K power connector molex
 $ENDCMP
 #
+$CMP SOCKET508P-01X04
+D 4 Positions Header, Shrouded Connector 0.200" (5.08mm) Through Hole, Right Angle Tin
+K power connector molex
+$ENDCMP
+#
 $CMP SOCKFEMALE_02x03
 D Connector 01x04
 $ENDCMP
