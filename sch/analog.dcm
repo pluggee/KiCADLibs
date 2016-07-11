@@ -9,6 +9,10 @@ D DMOS Microstepping Driver with Translator And Overcurrent Protection
 K stepper driver motor
 $ENDCMP
 #
+$CMP AP3418
+D 1.5A, 1.4MHZ HIGH EFFICIENCY SYNCHRONOUS DC-DC BUCK CONVERTER
+$ENDCMP
+#
 $CMP DRV8825
 D Stepper Motor Controller IC
 K stepper driver motor
