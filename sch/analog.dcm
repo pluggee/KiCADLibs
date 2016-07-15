@@ -18,4 +18,9 @@ D Stepper Motor Controller IC
 K stepper driver motor
 $ENDCMP
 #
+$CMP NX3DV221
+D High-speed USB 2.0 switch with enable
+K USB Switch
+$ENDCMP
+#
 #End Doc Library
