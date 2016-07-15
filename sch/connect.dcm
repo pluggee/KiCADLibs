@@ -42,4 +42,9 @@ D Button
 K switch
 $ENDCMP
 #
+$CMP USB_B_RECEPTACLE
+D B connector
+K USB USB_B
+$ENDCMP
+#
 #End Doc Library
