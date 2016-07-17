@@ -1,4 +1,4 @@
-update=Sun 10 Jul 2016 08:21:41 PM PDT
+update=Sat 16 Jul 2016 04:39:07 PM PDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -67,3 +67,4 @@ LibName35=datastorage
 LibName36=/media/psf/Dropbox/electricCar/PCB/LIB/EC_Components
 LibName37=systems
 LibName38=inductors
+LibName39=devices
