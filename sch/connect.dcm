@@ -4,6 +4,10 @@ $CMP CONN127P-02X05
 D 10-Pin Connector 50mils Pitch 02x05
 $ENDCMP
 #
+$CMP CONN254P-01X06
+D Connector 01x04
+$ENDCMP
+#
 $CMP CONN500P-01X04
 D Phoenix Contacts 4-pin Wire to Board Connector
 K power connector phoenix wire board
@@ -18,6 +22,10 @@ D 6 AWG High AMP PCB Wire Lug 6-16 AWG
 $ENDCMP
 #
 $CMP MECH_NPTH_M4
+D M4 3.6 Non-Plather Through Hole
+$ENDCMP
+#
+$CMP MECH_PTH_M4
 D M4 3.6 Non-Plather Through Hole
 $ENDCMP
 #
