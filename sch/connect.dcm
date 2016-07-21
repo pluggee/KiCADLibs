@@ -62,6 +62,11 @@ D Button
 K switch
 $ENDCMP
 #
+$CMP USB_A_RECEPTACLE
+D USB A connector
+K USB A connector
+$ENDCMP
+#
 $CMP USB_B_RECEPTACLE
 D B connector
 K USB USB_B
