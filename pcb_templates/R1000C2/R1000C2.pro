@@ -1,4 +1,4 @@
-update=Mon 18 Apr 2016 08:33:40 AM PDT
+update=Sun 24 Jul 2016 23:55:21 PDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -33,3 +33,6 @@ LibName1=power
 LibName2=device
 LibName3=analog
 LibName4=connect
+LibName5=microcontroller
+LibName6=logic
+LibName7=systems
