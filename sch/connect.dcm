@@ -8,6 +8,10 @@ $CMP CONN254P-01X06
 D Connector 01x04
 $ENDCMP
 #
+$CMP CONN254P-02X05
+D Connector 10 Positions Header, Shrouded Connector 0.100" (2.54mm) Through Hole, Right Angle Gold
+$ENDCMP
+#
 $CMP CONN500P-01X04
 D Phoenix Contacts 4-pin Wire to Board Connector
 K power connector phoenix wire board
