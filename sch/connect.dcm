@@ -21,6 +21,10 @@ $CMP CONN_01X04
 D Connector 01x04
 $ENDCMP
 #
+$CMP CONN_R1000A_EXTENSION
+D R1000A Extenstion Connector : 20 pin 50 Mil connector 2x10
+$ENDCMP
+#
 $CMP LUG_B6A-PCB-SS
 D 6 AWG High AMP PCB Wire Lug 6-16 AWG
 $ENDCMP
