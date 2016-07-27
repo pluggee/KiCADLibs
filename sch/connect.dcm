@@ -17,6 +17,11 @@ D Phoenix Contacts 4-pin Wire to Board Connector
 K power connector phoenix wire board
 $ENDCMP
 #
+$CMP CONN500P-01X08
+D Phoenix Contacts 8-pin Wire to Board Connector
+K power connector phoenix wire board
+$ENDCMP
+#
 $CMP CONN_01X04
 D Connector 01x04
 $ENDCMP
