@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74HC125
+D CMOS Quad buffer/line driver 3-state
+$ENDCMP
+#
 $CMP 74LS157
 D Quad 2 to 1 line Multiplexer
 K TTL MUX MUX2

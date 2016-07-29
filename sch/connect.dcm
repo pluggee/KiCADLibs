@@ -34,12 +34,16 @@ $CMP LUG_B6A-PCB-SS
 D 6 AWG High AMP PCB Wire Lug 6-16 AWG
 $ENDCMP
 #
+$CMP MECH_NPTH_M3
+D M3 2.6 Non-Plated Through Hole
+$ENDCMP
+#
 $CMP MECH_NPTH_M4
-D M4 3.6 Non-Plather Through Hole
+D M4 3.6 Non-Plated Through Hole
 $ENDCMP
 #
 $CMP MECH_PTH_M4
-D M4 3.6 Non-Plather Through Hole
+D M4 3.6 Plated Through Hole
 $ENDCMP
 #
 $CMP PCIESOCKET-X1
