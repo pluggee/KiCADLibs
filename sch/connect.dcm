@@ -8,6 +8,10 @@ $CMP CONN254P-01X06
 D Connector 01x04
 $ENDCMP
 #
+$CMP CONN254P-02X04
+D Connector 10 Positions Header, Shrouded Connector 0.100" (2.54mm) Through Hole, Right Angle Gold
+$ENDCMP
+#
 $CMP CONN254P-02X05
 D Connector 10 Positions Header, Shrouded Connector 0.100" (2.54mm) Through Hole, Right Angle Gold
 $ENDCMP
@@ -20,6 +24,10 @@ $ENDCMP
 $CMP CONN500P-01X08
 D Phoenix Contacts 8-pin Wire to Board Connector
 K power connector phoenix wire board
+$ENDCMP
+#
+$CMP CONN_01X03
+D Connector 01x03
 $ENDCMP
 #
 $CMP CONN_01X04
