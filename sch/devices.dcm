@@ -4,6 +4,10 @@ $CMP C0603
 D Unpolarized capacitor
 $ENDCMP
 #
+$CMP C0805
+D Unpolarized capacitor
+$ENDCMP
+#
 $CMP PSMN1R2-30YLC
 D N-channel 30 V 1.25mΩ logic level MOSFET in LFPAK using NextPower technology
 K nmos n-mos n-mosfet transistor
