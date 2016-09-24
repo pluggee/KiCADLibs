@@ -22,6 +22,10 @@ $CMP AS78L05ZTR-E1
 D Linear Voltage Regulator IC Positive Fixed 1 Output 5V 100mA TO-92
 $ENDCMP
 #
+$CMP BD9E302EFJ-E2
+D 7.0V〜28V Input, 3A Integrated MOSFET Single Synchronous Buck DC/DC Converter
+$ENDCMP
+#
 $CMP DRV8825
 D Stepper Motor Controller IC
 K stepper driver motor

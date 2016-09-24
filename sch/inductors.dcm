@@ -1,3 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP INDUCTOR_SRN4026-2R2Y
+D 2.2µH Unshielded Wirewound Inductor 2.1A 29 mOhm Max Nonstandard
+$ENDCMP
+#
+$CMP INDUCTOR_SRN6045TA-4R7M
+D 4.7µH Unshielded Wirewound Inductor 4.5A 26 mOhm Nonstandard
+$ENDCMP
+#
 #End Doc Library
