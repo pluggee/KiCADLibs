@@ -22,4 +22,9 @@ D Two pin crystal
 K Quartz, Resonator, Ceramic, Filter
 $ENDCMP
 #
+$CMP XTAL4_12MHz
+D Two pin crystal
+K Quartz, Resonator, Ceramic, Filter
+$ENDCMP
+#
 #End Doc Library
