@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BRACKET-R1000A
+D Mechanical bracket for R1000A board
+$ENDCMP
+#
 #End Doc Library

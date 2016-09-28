@@ -18,12 +18,12 @@ D Resistor
 $ENDCMP
 #
 $CMP XTAL2_12MHz
-D Two pin crystal
+D 12MHz ±20ppm Crystal 18pF 50 Ohm -20°C ~ 70°C Surface Mount HC49/US
 K Quartz, Resonator, Ceramic, Filter
 $ENDCMP
 #
 $CMP XTAL4_12MHz
-D Two pin crystal
+D 12MHz ±30ppm Crystal 10pF 120 Ohm -10°C ~ 60°C Surface Mount 4-SMD, No Lead (DFN, LCC)
 K Quartz, Resonator, Ceramic, Filter
 $ENDCMP
 #
