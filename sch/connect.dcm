@@ -54,6 +54,11 @@ $CMP MECH_PTH_M4
 D M4 3.6 Plated Through Hole
 $ENDCMP
 #
+$CMP MiniUSB_B_RECEPTACLE
+D USB A connector
+K USB A connector
+$ENDCMP
+#
 $CMP PCIESOCKET-X1
 D CONN PCI EXPRESS 36POS VERT PCB
 K PCI Express
@@ -92,6 +97,11 @@ K switch
 $ENDCMP
 #
 $CMP USB_A_RECEPTACLE
+D USB A connector
+K USB A connector
+$ENDCMP
+#
+$CMP USB_A_RECEPTACLE_2
 D USB A connector
 K USB A connector
 $ENDCMP
