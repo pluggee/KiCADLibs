@@ -1,3 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MICROSD_SCHA5B0200
+D Memory Card Connectors microSD Rev Mount Push-push w/Switch
+$ENDCMP
+#
+$CMP MICROSD_SCHD3A0100
+D Memory Card Connectors Slide In-Slide Out Headers Micro SD
+$ENDCMP
+#
 #End Doc Library

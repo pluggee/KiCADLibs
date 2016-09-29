@@ -4,4 +4,8 @@ $CMP BRACKET-R1000A
 D Mechanical bracket for R1000A board
 $ENDCMP
 #
+$CMP BRACKET-R1000A-10
+D Mechanical bracket for R1000A board
+$ENDCMP
+#
 #End Doc Library
