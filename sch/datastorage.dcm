@@ -8,4 +8,10 @@ $CMP MICROSD_SCHD3A0100
 D Memory Card Connectors Slide In-Slide Out Headers Micro SD
 $ENDCMP
 #
+$CMP SDCARD_RECEPTACLE
+D SD Card Reader
+K CONN SD
+F http://portal.fciconnect.com/Comergent//fci/drawing/10067847.pdf
+$ENDCMP
+#
 #End Doc Library
