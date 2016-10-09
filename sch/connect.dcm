@@ -4,6 +4,10 @@ $CMP CONN127P-02X05
 D 10-Pin Connector 50mils Pitch 02x05
 $ENDCMP
 #
+$CMP CONN127P-02X10
+D R1000A Extenstion Connector : 20 pin 50 Mil connector 2x10
+$ENDCMP
+#
 $CMP CONN254P-01X06
 D Connector 01x04
 $ENDCMP
