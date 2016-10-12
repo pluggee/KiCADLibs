@@ -31,6 +31,14 @@ D Stepper Motor Controller IC
 K stepper driver motor
 $ENDCMP
 #
+$CMP INA219AIDCNR
+D INA219 Zerø-Drift, Bidirectional Current/Power Monitor With I2C Interface
+$ENDCMP
+#
+$CMP LM5060MM/NOPB
+D LM5060 High-Side Protection Controller with Low Quiescent Current
+$ENDCMP
+#
 $CMP NX3DV221
 D High-speed USB 2.0 switch with enable
 K USB Switch

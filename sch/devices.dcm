@@ -17,6 +17,10 @@ $CMP R0603
 D Resistor
 $ENDCMP
 #
+$CMP RSENSE_WSL3637
+D Resistor
+$ENDCMP
+#
 $CMP XTAL2_12MHz
 D 12MHz ±20ppm Crystal 18pF 50 Ohm -20°C ~ 70°C Surface Mount HC49/US
 K Quartz, Resonator, Ceramic, Filter
