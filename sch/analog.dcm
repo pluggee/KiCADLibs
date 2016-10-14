@@ -35,6 +35,10 @@ $CMP INA219AIDCNR
 D INA219 Zerø-Drift, Bidirectional Current/Power Monitor With I2C Interface
 $ENDCMP
 #
+$CMP INA3221AIRGVR
+D INA219 Zerø-Drift, Bidirectional Current/Power Monitor With I2C Interface
+$ENDCMP
+#
 $CMP LM5060MM/NOPB
 D LM5060 High-Side Protection Controller with Low Quiescent Current
 $ENDCMP
