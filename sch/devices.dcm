@@ -17,6 +17,10 @@ $CMP R0603
 D Resistor
 $ENDCMP
 #
+$CMP R1206
+D Resistor
+$ENDCMP
+#
 $CMP RSENSE_WSL3637
 D Resistor
 $ENDCMP
