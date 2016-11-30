@@ -1,5 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CONN127P-01X02
+D 10-Pin Connector 50mils Pitch 02x05
+$ENDCMP
+#
+$CMP CONN127P-02X02
+D 10-Pin Connector 50mils Pitch 02x05
+$ENDCMP
+#
 $CMP CONN127P-02X05
 D 10-Pin Connector 50mils Pitch 02x05
 $ENDCMP

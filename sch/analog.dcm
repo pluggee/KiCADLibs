@@ -52,4 +52,8 @@ $CMP TLP293-4
 D Optoisolator Transistor Output 3750Vrms 4 Channel 16-SO
 $ENDCMP
 #
+$CMP ZXCT1107
+D Linear Voltage Regulator IC Positive Fixed 1 Output 5V 100mA TO-92
+$ENDCMP
+#
 #End Doc Library
