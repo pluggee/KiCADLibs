@@ -43,6 +43,10 @@ $CMP LM5060MM/NOPB
 D LM5060 High-Side Protection Controller with Low Quiescent Current
 $ENDCMP
 #
+$CMP MAX31865AAP+
+D RTD-to-Digital Converter
+$ENDCMP
+#
 $CMP NX3DV221
 D High-speed USB 2.0 switch with enable
 K USB Switch
