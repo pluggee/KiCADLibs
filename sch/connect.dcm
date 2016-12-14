@@ -85,6 +85,10 @@ $CMP SOCKET254P-01X02
 D Connector 01x02
 $ENDCMP
 #
+$CMP SOCKET254P-01X04-1725672
+D Connector 01x04
+$ENDCMP
+#
 $CMP SOCKET420P-02X04-CPU
 D CPU 8 Positions Header
 K power connector molex
