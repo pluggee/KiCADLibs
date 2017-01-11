@@ -41,4 +41,17 @@ X 1 1 -200 0 200 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
+# TestPoint
+#
+DEF TestPoint TP 0 40 Y Y 1 F N
+F0 "TP" -100 -175 60 H V L CNN
+F1 "TestPoint" -100 -250 60 H V L CNN
+F2 "Main:TestPoint000" 300 -375 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+S -100 100 100 -100 0 1 0 N
+X 1 1 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
 #End Library
