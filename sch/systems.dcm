@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ART
+D Misc artwork - assign footprint
+$ENDCMP
+#
 $CMP RPi_Mount
 D Raspberry Pi 2/3 Mount
 $ENDCMP
