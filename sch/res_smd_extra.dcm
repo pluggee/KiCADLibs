@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ERJ-8CWFR030V
+D $$$ RES 1206 100 Ω ±1%
+$ENDCMP
+#
+$CMP RSENSE_WSL3637
+D 3 mΩ 4-Terminal Surface Mount Power Metal Strip Resistor   
+$ENDCMP
+#
+#End Doc Library

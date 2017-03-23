@@ -8,6 +8,36 @@ $CMP C0805
 D Unpolarized capacitor
 $ENDCMP
 #
+$CMP LTST-C170KFKT
+D LED ORANGE 0805 SMD 2V
+K led diode
+$ENDCMP
+#
+$CMP LTST-C171GKT
+D LED GREEN 0805 SMD 2.1V
+K led diode
+$ENDCMP
+#
+$CMP LTST-C171KRKT
+D LED RED 0805 SMD 2V
+K led diode
+$ENDCMP
+#
+$CMP LTST-C171TBKT
+D LED BLUE 0805 SMD 3.3V
+K led diode
+$ENDCMP
+#
+$CMP LTW-170TK
+D LED WHITE 0805 SMD 3.3V
+K led diode
+$ENDCMP
+#
+$CMP MBR0520LT1G
+D Schottky diode, small symbol, alternativ symbol
+K diode schottky
+$ENDCMP
+#
 $CMP PSMN1R2-30YLC
 D N-channel 30 V 1.25mΩ logic level MOSFET in LFPAK using NextPower technology
 K nmos n-mos n-mosfet transistor
