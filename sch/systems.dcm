@@ -4,6 +4,10 @@ $CMP ART
 D Misc artwork - assign footprint
 $ENDCMP
 #
+$CMP CHIPPRO
+D C.H.I.P. Pro Compute Module Footprint
+$ENDCMP
+#
 $CMP RPi_Mount
 D Raspberry Pi 2/3 Mount
 $ENDCMP
