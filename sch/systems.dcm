@@ -8,6 +8,10 @@ $CMP CHIPPRO
 D C.H.I.P. Pro Compute Module Footprint
 $ENDCMP
 #
+$CMP COMPUTE_MOD_1
+D Compute module, intended to attach C.H.I.P., particle.io or more
+$ENDCMP
+#
 $CMP RPi_Mount
 D Raspberry Pi 2/3 Mount
 $ENDCMP
