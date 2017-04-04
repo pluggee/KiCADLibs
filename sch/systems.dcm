@@ -12,6 +12,14 @@ $CMP COMPUTE_MOD_1
 D Compute module, intended to attach C.H.I.P., particle.io or more
 $ENDCMP
 #
+$CMP ELECTRON_TH
+D Particle.io Electron through-hole module
+$ENDCMP
+#
+$CMP PHOTON_SMD
+D Particle.io Photon SMD Module
+$ENDCMP
+#
 $CMP RPi_Mount
 D Raspberry Pi 2/3 Mount
 $ENDCMP
