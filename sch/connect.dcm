@@ -85,6 +85,10 @@ $CMP SOCKET254P-01X02
 D Connector 01x02
 $ENDCMP
 #
+$CMP SOCKET254P-01X02-M20-9960245
+D Right angle through hole, header jumper connector 1x2
+$ENDCMP
+#
 $CMP SOCKET254P-01X04-1725672
 D Connector 01x04
 $ENDCMP
