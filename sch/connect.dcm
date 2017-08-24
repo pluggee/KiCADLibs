@@ -93,6 +93,11 @@ $CMP SOCKET254P-01X04-1725672
 D Connector 01x04
 $ENDCMP
 #
+$CMP SOCKET254P-02X20
+D Connector, double row, 02x20, pin header
+K connector
+$ENDCMP
+#
 $CMP SOCKET420P-02X04-CPU
 D CPU 8 Positions Header
 K power connector molex
