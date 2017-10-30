@@ -81,6 +81,11 @@ D PCI Express x1 Board Edge
 K PCI Express
 $ENDCMP
 #
+$CMP RJ45
+D RJ45 connector with shield
+K RJ45
+$ENDCMP
+#
 $CMP SOCKET254P-01X02
 D Connector 01x02
 $ENDCMP

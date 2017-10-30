@@ -1,4 +1,4 @@
-update=Wed 28 Dec 2016 11:57:25 PM PST
+update=Sat 28 Oct 2017 11:43:16 PM PDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -69,3 +69,5 @@ LibName37=systems
 LibName38=inductors
 LibName39=devices
 LibName40=mem
+LibName41=sensors
+LibName42=teensy
