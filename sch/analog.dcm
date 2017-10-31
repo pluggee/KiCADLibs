@@ -36,7 +36,7 @@ D INA219 Zerø-Drift, Bidirectional Current/Power Monitor With I2C Interface
 $ENDCMP
 #
 $CMP INA3221AIRGVR
-D INA219 Zerø-Drift, Bidirectional Current/Power Monitor With I2C Interface
+D INA3221 Triple-Channel, High-Side Measurement, Shunt and Bus Voltage Monitor with I2C- and SMBUS-Compatible Interface
 $ENDCMP
 #
 $CMP LM5060MM/NOPB
@@ -45,6 +45,10 @@ $ENDCMP
 #
 $CMP MAX31865AAP+
 D RTD-to-Digital Converter
+$ENDCMP
+#
+$CMP MCP3021
+D Low-Power 10-Bit A/D Converter with I2C Interface
 $ENDCMP
 #
 $CMP NX3DV221
