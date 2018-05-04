@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 15MQ060NTR
+D Schottky diode 60V 2.1A 0.4V@3A
+K diode schottky
+$ENDCMP
+#
 $CMP C0603
 D Unpolarized capacitor
 $ENDCMP

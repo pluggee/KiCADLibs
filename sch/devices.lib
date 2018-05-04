@@ -1,6 +1,34 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
+# 15MQ060NTR
+#
+DEF 15MQ060NTR D 0 10 N N 1 F N
+F0 "D" 50 90 50 H V L CNN
+F1 "15MQ060NTR" 50 20 39 H V L CNN
+F2 "Main:DO-214AC_SMA" 50 340 50 H I L CNN
+F3 "" 30 80 50 H I C CNN
+F4 "SMC Diode Solutions" 50 170 60 H I L CNN "Manufacturer"
+F5 "15MQ060NTR" 50 260 60 H I L CNN "MPN"
+F6 "COMMON" 50 -40 28 H V L CNN "SKU"
+$FPLIST
+ TO-???*
+ *SingleDiode
+ *_Diode_*
+ *SingleDiode*
+ D_*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -40 -30 40 -30 N
+P 2 0 1 0 0 -30 0 30 N
+P 3 0 1 0 -40 -30 -40 -20 -30 -20 N
+P 3 0 1 0 40 -30 40 -40 30 -40 N
+P 4 0 1 0 -40 30 0 -30 40 30 -40 30 F
+X K 1 0 -100 70 U 50 50 1 1 P
+X A 2 0 100 70 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # C0603
 #
 DEF C0603 C 0 10 N N 1 F N
