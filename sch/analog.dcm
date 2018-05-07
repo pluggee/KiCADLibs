@@ -14,6 +14,10 @@ D DMOS Microstepping Driver with Translator And Overcurrent Protection
 K stepper driver motor
 $ENDCMP
 #
+$CMP ADS7958SRGET
+D RTD-to-Digital Converter
+$ENDCMP
+#
 $CMP AP3418
 D 1.5A, 1.4MHZ HIGH EFFICIENCY SYNCHRONOUS DC-DC BUCK CONVERTER
 $ENDCMP
