@@ -15,7 +15,7 @@ K stepper driver motor
 $ENDCMP
 #
 $CMP ADS7958SRGET
-D RTD-to-Digital Converter
+D ADS7958 8-Bit, 1 MSPS, 4-Channel, Single-Ended, MicroPower, Serial Interface ADCs
 $ENDCMP
 #
 $CMP AP3418
