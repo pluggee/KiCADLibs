@@ -1,6 +1,6 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 78SRH-5/2-C
+$CMP 78SRH-5_2-C
 D 2 Amp, 5V Output, High Efficiency, Synchronous Switching Regulator
 K Switching Regulator
 $ENDCMP
@@ -20,6 +20,11 @@ $ENDCMP
 #
 $CMP AP3418
 D 1.5A, 1.4MHZ HIGH EFFICIENCY SYNCHRONOUS DC-DC BUCK CONVERTER
+$ENDCMP
+#
+$CMP AS5047P
+D 14-Bit On-Axis Magnetic Rotary Position Sensor with 12-Bit Decimal and Binary Incremental Pulse Count for 28krpm High Speed Capability
+F https://ams.com/documents/20143/36005/AS5047P_DS000324_2-00.pdf
 $ENDCMP
 #
 $CMP AS78L05ZTR-E1
@@ -48,7 +53,7 @@ $CMP INA3221AIRGVR
 D INA3221 Triple-Channel, High-Side Measurement, Shunt and Bus Voltage Monitor with I2C- and SMBUS-Compatible Interface
 $ENDCMP
 #
-$CMP LM5060MM/NOPB
+$CMP LM5060MM_NOPB
 D LM5060 High-Side Protection Controller with Low Quiescent Current
 $ENDCMP
 #
