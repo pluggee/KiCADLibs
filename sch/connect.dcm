@@ -16,6 +16,12 @@ $CMP CONN127P-02X10
 D R1000A Extenstion Connector : 20 pin 50 Mil connector 2x10
 $ENDCMP
 #
+$CMP CONN127P-02X13-M55-6012642R
+D Harwin 2x13 50mil female connector
+K connector
+F ~
+$ENDCMP
+#
 $CMP CONN127P-02X13-M55-7012642R
 D Harwin 2x13 50mil male connector
 K connector
