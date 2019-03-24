@@ -35,6 +35,11 @@ $CMP BD9E302EFJ-E2
 D 7.0V〜28V Input, 3A Integrated MOSFET Single Synchronous Buck DC/DC Converter
 $ENDCMP
 #
+$CMP DRV8301
+D 6 to 60V Three-Phase Smart Gate Driver
+K driver bldc smar
+$ENDCMP
+#
 $CMP DRV8323RS
 D 6 to 60V Three-Phase Smart Gate Driver
 K driver bldc smar
