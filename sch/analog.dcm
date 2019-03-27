@@ -62,6 +62,10 @@ $CMP LM5060MM_NOPB
 D LM5060 High-Side Protection Controller with Low Quiescent Current
 $ENDCMP
 #
+$CMP LM5109BSD
+D LM5060 High-Side Protection Controller with Low Quiescent Current
+$ENDCMP
+#
 $CMP MAX31865AAP+
 D RTD-to-Digital Converter
 $ENDCMP
