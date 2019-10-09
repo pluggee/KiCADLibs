@@ -79,12 +79,20 @@ D High-speed USB 2.0 switch with enable
 K USB Switch
 $ENDCMP
 #
+$CMP PSK-S5B-5
+D CUI AC/DC CONVERTER 5VDC 5W
+$ENDCMP
+#
 $CMP SN65HVD232D
 D SN65HVD23x 3.3-V CAN Bus Transceivers
 $ENDCMP
 #
 $CMP TLP293-4
 D Optoisolator Transistor Output 3750Vrms 4 Channel 16-SO
+$ENDCMP
+#
+$CMP V78E05-1000-SMT-TR
+D DC-DC NON-ISOLATED, 1 A, 8 36 VD
 $ENDCMP
 #
 $CMP ZXCT1107
