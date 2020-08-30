@@ -35,6 +35,10 @@ $CMP BD9E302EFJ-E2
 D 7.0V〜28V Input, 3A Integrated MOSFET Single Synchronous Buck DC/DC Converter
 $ENDCMP
 #
+$CMP DHT22
+D SENSOR HUMID/TEMP 5V DTL 2% MOD
+$ENDCMP
+#
 $CMP DRV8301
 D 6 to 60V Three-Phase Smart Gate Driver
 K driver bldc smar
@@ -77,6 +81,10 @@ $ENDCMP
 $CMP NX3DV221
 D High-speed USB 2.0 switch with enable
 K USB Switch
+$ENDCMP
+#
+$CMP P783-Q24-S5-S
+D DC-DC NON-ISOLATED, 3 A, 8~36 VD
 $ENDCMP
 #
 $CMP PSK-S5B-5
