@@ -31,6 +31,11 @@ $CMP AS78L05ZTR-E1
 D Linear Voltage Regulator IC Positive Fixed 1 Output 5V 100mA TO-92
 $ENDCMP
 #
+$CMP Ag9705S
+D Power over Ethernet - PoE IEEE802.3af PD module 5V 9W SIL
+K PoE
+$ENDCMP
+#
 $CMP BD9E302EFJ-E2
 D 7.0V〜28V Input, 3A Integrated MOSFET Single Synchronous Buck DC/DC Converter
 $ENDCMP

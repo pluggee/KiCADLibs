@@ -1,5 +1,4 @@
 (fp_lib_table
   (lib (name Main)(type KiCad)(uri ${MYGIT}/main.pretty)(options "")(descr "DEVELOPMENT NON-GIT footprint library"))
   (lib (name pluggee)(type KiCad)(uri ${MYGIT}/pluggee.pretty)(options "")(descr "DEVELOPMENT pluggee artwork"))
-  (lib (name Particle)(type Eagle)(uri $HOME/pubgit/hardware-libraries/Eagle/Particle.lbr)(options "")(descr ""))
 )
