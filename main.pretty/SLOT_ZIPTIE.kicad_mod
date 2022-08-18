@@ -1,0 +1,9 @@
+(module SLOT_ZIPTIE (layer F.Cu) (tedit 584F558C)
+  (fp_text reference REF** (at 0 -2.2) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value SLOT_ZIPTIE (at 0 -0.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole oval (at 0 0) (size 1.4 3) (drill oval 1.4 3) (layers *.Cu *.Mask))
+)

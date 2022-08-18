@@ -1,0 +1,15 @@
+(module BRACKET-R1000A (layer F.Cu) (tedit 58DDE9F7)
+  (fp_text reference REF** (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value BRACKET-R1000A (at 0.1 1.8) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole circle (at -81.3 0) (size 2.7 2.7) (drill 2.7) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 81.3 0) (size 2.7 2.7) (drill 2.7) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/main.3dshapes/BRACKET-R1000A.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)
