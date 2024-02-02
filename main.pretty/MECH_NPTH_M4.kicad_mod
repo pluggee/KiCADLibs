@@ -1,9 +1,86 @@
-(module MECH_NPH_M4 (layer F.Cu) (tedit 578E5A2D)
-  (fp_text reference REF** (at 0 -1.6) (layer F.SilkS) hide
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value MECH_NPH_M4 (at 0 -2.8) (layer F.Fab) hide
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (pad "" np_thru_hole circle (at 0 0) (size 3.6 3.6) (drill 3.6) (layers *.Cu *.Mask F.SilkS))
+(footprint "MECH_NPTH_M4"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -1.6 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "94cfa604-9e85-4fe5-a5c6-85d47371feab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "MECH_NPH_M4"
+		(at 0 -2.8 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3bba388a-550c-45bd-8de8-4005ae34152f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "16e259df-f703-44d4-9f70-70a34edd5243")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1ab3948a-ef96-4181-9afb-b7b104858507")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1f339828-fbfe-4b11-90dd-d59ddaf064be")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(clearance 3)
+	(attr through_hole)
+	(fp_circle
+		(center 0 0)
+		(end 4.5 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Mask")
+		(uuid "b96b2cd1-2275-44ad-a897-4e6f025dbdd8")
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 3.6 3.6)
+		(drill 3.6)
+		(layers "*.Cu" "*.Mask" "F.SilkS")
+		(uuid "ded64c0c-4683-4ef0-90b8-5d96de6fef2c")
+	)
 )
