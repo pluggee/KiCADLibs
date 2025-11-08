@@ -3763,6 +3763,56 @@
 				(hide yes)
 			)
 		)
+		(symbol "ML001A_0_1"
+			(polyline
+				(pts
+					(xy -17.78 -30.48) (xy 16.51 -30.48)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -17.78 -25.4) (xy 16.51 -25.4)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -17.78 -20.32) (xy 16.51 -20.32)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -17.78 -10.16) (xy 16.51 -10.16)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
 		(symbol "ML001A_1_1"
 			(rectangle
 				(start -17.78 38.1)
@@ -4146,7 +4196,7 @@
 			(pin input line
 				(at -20.32 -17.78 0)
 				(length 2.54)
-				(name "BOOT1"
+				(name "BOOT1/REQUEST"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4180,7 +4230,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -20.32 -25.4 0)
+				(at 19.05 -22.86 180)
 				(length 2.54)
 				(name "SDA"
 					(effects
@@ -4198,7 +4248,7 @@
 				)
 			)
 			(pin output line
-				(at -20.32 -30.48 0)
+				(at 19.05 -27.94 180)
 				(length 2.54)
 				(name "DUART_TX"
 					(effects
@@ -4216,7 +4266,7 @@
 				)
 			)
 			(pin input line
-				(at -20.32 -33.02 0)
+				(at -20.32 -27.94 0)
 				(length 2.54)
 				(name "DUART_RX"
 					(effects
@@ -4233,10 +4283,10 @@
 					)
 				)
 			)
-			(pin no_connect line
-				(at 19.05 -11.43 180)
-				(length 2.54) hide
-				(name "NC"
+			(pin open_collector line
+				(at 19.05 -17.78 180)
+				(length 2.54)
+				(name "~{BUSY}"
 					(effects
 						(font
 							(size 1.27 1.27)
