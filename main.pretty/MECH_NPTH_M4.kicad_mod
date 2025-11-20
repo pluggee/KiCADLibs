@@ -1,7 +1,7 @@
 (footprint "MECH_NPTH_M4"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 0 -1.6 0)
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "16e259df-f703-44d4-9f70-70a34edd5243")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,10 +49,11 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
-	(clearance 3)
+	(clearance 2.6)
 	(attr through_hole)
 	(fp_circle
 		(center 0 0)
@@ -72,15 +62,27 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.Mask")
 		(uuid "b96b2cd1-2275-44ad-a897-4e6f025dbdd8")
 	)
+	(fp_circle
+		(center 0 0)
+		(end 4.5 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.Mask")
+		(uuid "ecd5575d-bbbb-42e7-aced-d1959735dc66")
+	)
 	(pad "" np_thru_hole circle
 		(at 0 0)
-		(size 3.6 3.6)
-		(drill 3.6)
+		(size 4.6 4.6)
+		(drill 4.5)
 		(layers "*.Cu" "*.Mask" "F.SilkS")
 		(uuid "ded64c0c-4683-4ef0-90b8-5d96de6fef2c")
 	)
+	(embedded_fonts no)
 )
