@@ -1,9 +1,64 @@
-(module MECH_PTH_3mm (layer F.Cu) (tedit 5C9AF25C)
-  (fp_text reference REF** (at 0 -4) (layer F.SilkS) hide
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value MECH_PTH_3mm (at 0 -2.8) (layer F.Fab) hide
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (pad 1 thru_hole circle (at 0 0) (size 3 3) (drill 2) (layers *.Cu *.Mask F.SilkS))
+(footprint "MECH_PTH_3mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -4 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "2bd7f9c4-582d-4f07-904f-e92b5fb97670")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "MECH_PTH_3mm"
+		(at 0 -2.8 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e9e7c881-6001-4c58-89ac-462e348f469c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "94e0d8fe-04d2-4b94-9361-e325542a4f45")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e1ff9ee5-a3b2-41ef-ab51-83953a945aff")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 5 5)
+		(drill 3)
+		(layers "*.Cu" "*.Mask" "F.SilkS")
+		(remove_unused_layers no)
+		(uuid "09f30734-8622-42b5-a53d-0e0c3ff61ac0")
+	)
+	(embedded_fonts no)
 )

@@ -961,6 +961,386 @@
 		)
 		(embedded_fonts no)
 	)
+	(symbol "CONN127P-02X05-KEY"
+		(pin_names
+			(offset 1.016)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "J"
+			(at -3.81 8.255 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "CONN127P-02X05-KEY"
+			(at -3.81 10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Main:CONN127P-02X05-3220-10-0100-00"
+			(at -3.81 -8.255 0)
+			(effects
+				(font
+					(size 0.508 0.508)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" ""
+			(at -2.54 6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Keyed 10-Pin Connector 50mils Pitch 02x05"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " 3220-10-0100-00"
+			(at -3.81 14.605 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(symbol "CONN127P-02X05-KEY_0_1"
+			(rectangle
+				(start -3.81 6.985)
+				(end 3.81 -6.985)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start -3.81 5.207)
+				(end -2.286 4.953)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start -3.81 2.667)
+				(end -2.286 2.413)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start -3.81 1.27)
+				(end -1.27 -1.27)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start -3.81 0.127)
+				(end -2.286 -0.127)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start -3.81 -2.413)
+				(end -2.286 -2.667)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start -3.81 -4.953)
+				(end -2.286 -5.207)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 2.2606 0.127)
+				(end 3.7846 -0.127)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 2.2606 -4.953)
+				(end 3.7846 -5.207)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 2.286 5.207)
+				(end 3.81 4.953)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 2.286 2.667)
+				(end 3.81 2.413)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 2.286 -2.413)
+				(end 3.81 -2.667)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "CONN127P-02X05-KEY_1_1"
+			(pin passive line
+				(at -7.62 5.08 0)
+				(length 3.81)
+				(name "P1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -7.62 2.54 0)
+				(length 3.81)
+				(name "P3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -7.62 0 0)
+				(length 3.81)
+				(name "P5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -7.62 -2.54 0)
+				(length 3.81)
+				(name "P7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -7.62 -5.08 0)
+				(length 3.81)
+				(name "P9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 5.08 180)
+				(length 3.81)
+				(name "P2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 2.54 180)
+				(length 3.81)
+				(name "P4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 0 180)
+				(length 3.81)
+				(name "P6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 -2.54 180)
+				(length 3.81)
+				(name "P8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 -5.08 180)
+				(length 3.81)
+				(name "P10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(symbol "CONN127P-02X10"
 		(pin_names
 			(offset 1.016)
@@ -5509,11 +5889,12 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at -19.812 26.416 0)
+			(at -20.828 28.194 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Value" ""
@@ -5525,7 +5906,7 @@
 			)
 		)
 		(property "Footprint" "Main:FPC_30_HRS_TF38_30S_0.5SV(830)"
-			(at 12.954 -28.448 0)
+			(at 12.446 -29.972 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5553,7 +5934,7 @@
 			)
 		)
 		(property "MPN" "TF38-30S-0.5SV(830)"
-			(at 13.462 -32.766 0)
+			(at 12.954 -34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5563,7 +5944,7 @@
 			)
 		)
 		(property "JLCMPN" "C7400065"
-			(at 13.208 -30.734 0)
+			(at 12.7 -32.258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5574,8 +5955,8 @@
 		)
 		(symbol "CONN_MH_FPC30_DRV_1_1"
 			(rectangle
-				(start -20.32 25.4)
-				(end 17.78 -26.67)
+				(start -20.32 26.67)
+				(end 17.78 -27.94)
 				(stroke
 					(width 0)
 					(type solid)
@@ -5595,9 +5976,9 @@
 				)
 			)
 			(pin input line
-				(at -22.86 17.78 0)
+				(at -22.86 16.51 0)
 				(length 2.54)
-				(name "nALERT_VBUS"
+				(name "nALERT"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -5613,25 +5994,7 @@
 				)
 			)
 			(pin input line
-				(at -22.86 15.24 0)
-				(length 2.54)
-				(name "nALERT_TMP"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "22"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -22.86 10.16 0)
+				(at -22.86 8.89 0)
 				(length 2.54)
 				(name "SPI_MISO"
 					(effects
@@ -5649,7 +6012,7 @@
 				)
 			)
 			(pin input line
-				(at -22.86 0 0)
+				(at -22.86 -1.27 0)
 				(length 2.54)
 				(name "RS8323_nFAULT"
 					(effects
@@ -5667,7 +6030,7 @@
 				)
 			)
 			(pin input line
-				(at -22.86 -7.62 0)
+				(at -22.86 -8.89 0)
 				(length 2.54)
 				(name "SOA"
 					(effects
@@ -5685,7 +6048,7 @@
 				)
 			)
 			(pin input line
-				(at -22.86 -10.16 0)
+				(at -22.86 -11.43 0)
 				(length 2.54)
 				(name "SOB"
 					(effects
@@ -5703,7 +6066,7 @@
 				)
 			)
 			(pin input line
-				(at -22.86 -12.7 0)
+				(at -22.86 -13.97 0)
 				(length 2.54)
 				(name "SOC"
 					(effects
@@ -5721,7 +6084,7 @@
 				)
 			)
 			(pin power_in line
-				(at -10.16 -29.21 90)
+				(at -10.16 -30.48 90)
 				(length 2.54)
 				(name "CHASIS"
 					(effects
@@ -5739,7 +6102,7 @@
 				)
 			)
 			(pin power_in line
-				(at -5.08 -29.21 90)
+				(at -5.08 -30.48 90)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5757,7 +6120,7 @@
 				)
 			)
 			(pin power_in line
-				(at -2.54 27.94 270)
+				(at -2.54 29.21 270)
 				(length 2.54)
 				(name "3.3V"
 					(effects
@@ -5775,7 +6138,7 @@
 				)
 			)
 			(pin power_in line
-				(at -2.54 -29.21 90)
+				(at -2.54 -30.48 90)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5793,7 +6156,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 27.94 270)
+				(at 0 29.21 270)
 				(length 2.54)
 				(name "3.3V"
 					(effects
@@ -5811,7 +6174,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -29.21 90)
+				(at 0 -30.48 90)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5829,7 +6192,7 @@
 				)
 			)
 			(pin power_in line
-				(at 2.54 27.94 270)
+				(at 2.54 29.21 270)
 				(length 2.54)
 				(name "3.3V"
 					(effects
@@ -5847,7 +6210,7 @@
 				)
 			)
 			(pin power_in line
-				(at 2.54 -29.21 90)
+				(at 2.54 -30.48 90)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5865,7 +6228,7 @@
 				)
 			)
 			(pin power_in line
-				(at 5.08 -29.21 90)
+				(at 5.08 -30.48 90)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5883,7 +6246,7 @@
 				)
 			)
 			(pin power_in line
-				(at 7.62 -29.21 90)
+				(at 7.62 -30.48 90)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5901,7 +6264,7 @@
 				)
 			)
 			(pin power_in line
-				(at 10.16 -29.21 90)
+				(at 10.16 -30.48 90)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5919,7 +6282,25 @@
 				)
 			)
 			(pin output line
-				(at 20.32 19.05 180)
+				(at 20.32 21.59 180)
+				(length 2.54)
+				(name "HV_EN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "22"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 20.32 17.78 180)
 				(length 2.54)
 				(name "SCL"
 					(effects
@@ -5937,7 +6318,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 20.32 16.51 180)
+				(at 20.32 15.24 180)
 				(length 2.54)
 				(name "SDA"
 					(effects
@@ -5955,7 +6336,7 @@
 				)
 			)
 			(pin output line
-				(at 20.32 10.16 180)
+				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "SPI_MOSI"
 					(effects
@@ -5973,7 +6354,7 @@
 				)
 			)
 			(pin output line
-				(at 20.32 7.62 180)
+				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "SPI_CLK"
 					(effects
@@ -5991,7 +6372,7 @@
 				)
 			)
 			(pin output line
-				(at 20.32 5.08 180)
+				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "SPI_nCS"
 					(effects
@@ -6009,7 +6390,7 @@
 				)
 			)
 			(pin output line
-				(at 20.32 0 180)
+				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "RS8323_CAL"
 					(effects
@@ -6027,7 +6408,7 @@
 				)
 			)
 			(pin output line
-				(at 20.32 -2.54 180)
+				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "RS8323_ENABLE"
 					(effects
@@ -6045,7 +6426,7 @@
 				)
 			)
 			(pin output line
-				(at 20.32 -7.62 180)
+				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "INHA"
 					(effects
@@ -6063,7 +6444,7 @@
 				)
 			)
 			(pin output line
-				(at 20.32 -10.16 180)
+				(at 20.32 -11.43 180)
 				(length 2.54)
 				(name "INLA"
 					(effects
@@ -6081,7 +6462,7 @@
 				)
 			)
 			(pin output line
-				(at 20.32 -12.7 180)
+				(at 20.32 -13.97 180)
 				(length 2.54)
 				(name "INHB"
 					(effects
@@ -6099,7 +6480,7 @@
 				)
 			)
 			(pin output line
-				(at 20.32 -15.24 180)
+				(at 20.32 -16.51 180)
 				(length 2.54)
 				(name "INLB"
 					(effects
@@ -6117,7 +6498,7 @@
 				)
 			)
 			(pin output line
-				(at 20.32 -17.78 180)
+				(at 20.32 -19.05 180)
 				(length 2.54)
 				(name "INHC"
 					(effects
@@ -6135,7 +6516,7 @@
 				)
 			)
 			(pin output line
-				(at 20.32 -20.32 180)
+				(at 20.32 -21.59 180)
 				(length 2.54)
 				(name "INLC"
 					(effects
