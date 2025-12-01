@@ -617,7 +617,7 @@
 		(uuid "461ec2a7-470e-40da-b606-bb281b029e3e")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/VQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm.step"
+	(model "${KICADLIBS}/pack3d/main.3dshapes/QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
